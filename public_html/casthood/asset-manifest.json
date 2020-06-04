@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/casthood/static/css/main.acb41cb2.chunk.css",
-    "main.js": "/casthood/static/js/main.d906a3c0.chunk.js",
-    "main.js.map": "/casthood/static/js/main.d906a3c0.chunk.js.map",
+    "main.css": "/casthood/static/css/main.9ce9bfd0.chunk.css",
+    "main.js": "/casthood/static/js/main.85acdb65.chunk.js",
+    "main.js.map": "/casthood/static/js/main.85acdb65.chunk.js.map",
     "runtime-main.js": "/casthood/static/js/runtime-main.85e5fe23.js",
     "runtime-main.js.map": "/casthood/static/js/runtime-main.85e5fe23.js.map",
-    "static/js/2.fe6636c2.chunk.js": "/casthood/static/js/2.fe6636c2.chunk.js",
-    "static/js/2.fe6636c2.chunk.js.map": "/casthood/static/js/2.fe6636c2.chunk.js.map",
+    "static/js/2.3caea0eb.chunk.js": "/casthood/static/js/2.3caea0eb.chunk.js",
+    "static/js/2.3caea0eb.chunk.js.map": "/casthood/static/js/2.3caea0eb.chunk.js.map",
     "index.html": "/casthood/index.html",
-    "precache-manifest.0a55c27f2f3f6a18e5a51d9a149236b0.js": "/casthood/precache-manifest.0a55c27f2f3f6a18e5a51d9a149236b0.js",
+    "precache-manifest.150db5815da5ccfbe2ce1b955c22ee17.js": "/casthood/precache-manifest.150db5815da5ccfbe2ce1b955c22ee17.js",
     "service-worker.js": "/casthood/service-worker.js",
-    "static/css/main.acb41cb2.chunk.css.map": "/casthood/static/css/main.acb41cb2.chunk.css.map",
+    "static/css/main.9ce9bfd0.chunk.css.map": "/casthood/static/css/main.9ce9bfd0.chunk.css.map",
     "static/media/Android_icon_CH.png": "/casthood/static/media/Android_icon_CH.54135489.png",
     "static/media/Grupo 2277.png": "/casthood/static/media/Grupo 2277.af5825ef.png",
     "static/media/Grupo 2278.png": "/casthood/static/media/Grupo 2278.bce29050.png",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.85e5fe23.js",
-    "static/js/2.fe6636c2.chunk.js",
-    "static/css/main.acb41cb2.chunk.css",
-    "static/js/main.d906a3c0.chunk.js"
+    "static/js/2.3caea0eb.chunk.js",
+    "static/css/main.9ce9bfd0.chunk.css",
+    "static/js/main.85acdb65.chunk.js"
   ]
 }

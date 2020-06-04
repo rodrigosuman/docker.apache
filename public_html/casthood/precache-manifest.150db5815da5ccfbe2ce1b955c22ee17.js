@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28d41e56f586308660c213e5a8f67513",
+    "revision": "c030c88189e17d03550a9b6236d8f8f2",
     "url": "/casthood/index.html"
   },
   {
-    "revision": "a0249f25708e51e96aff",
-    "url": "/casthood/static/css/main.acb41cb2.chunk.css"
+    "revision": "4c72b7a9463611234072",
+    "url": "/casthood/static/css/main.9ce9bfd0.chunk.css"
   },
   {
-    "revision": "045d23cc8c772b222c7c",
-    "url": "/casthood/static/js/2.fe6636c2.chunk.js"
+    "revision": "2462ea60e70495e04116",
+    "url": "/casthood/static/js/2.3caea0eb.chunk.js"
   },
   {
-    "revision": "a0249f25708e51e96aff",
-    "url": "/casthood/static/js/main.d906a3c0.chunk.js"
+    "revision": "4c72b7a9463611234072",
+    "url": "/casthood/static/js/main.85acdb65.chunk.js"
   },
   {
     "revision": "2adfbd53b28751b405a9",
